@@ -273,3 +273,12 @@ p {
   font-size: 10pt;
   vertical-align: -2pt;
 }
+.custom-hr {
+  padding: 4px;
+  color: black;
+  opacity: 1;
+}
+.header {
+  justify-content: space-between;
+  margin: 48px;
+}
