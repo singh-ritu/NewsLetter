@@ -1,0 +1,275 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-indent: 0;
+}
+body {
+  background-color: #ecebe8;
+}
+.s1 {
+  color: black;
+  font-family: Verdana, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 14pt;
+}
+.s2 {
+  color: black;
+  font-family: Verdana, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 56pt;
+}
+.s3 {
+  color: black;
+  font-family: Verdana, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 13pt;
+}
+.s4 {
+  color: black;
+  font-family: "Lucida Sans Unicode", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 11.5pt;
+}
+.s6 {
+  color: black;
+  font-family: "Arial Black", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 11.5pt;
+}
+.p,
+p {
+  color: black;
+  font-family: "Lucida Sans Unicode", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 10.5pt;
+  margin: 0pt;
+}
+.s7 {
+  color: black;
+  font-family: "Arial Black", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 10.5pt;
+}
+.a {
+  color: black;
+  font-family: "Arial Black", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 10.5pt;
+}
+.s8 {
+  color: #b64a4f;
+  font-family: "Arial Black", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 10.5pt;
+}
+.s9 {
+  color: #b64a4f;
+  font-family: "Arial Black", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: underline;
+  font-size: 10.5pt;
+}
+.h1 {
+  color: black;
+  font-family: Arial, sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 10.5pt;
+}
+.s11 {
+  color: black;
+  font-family: "Lucida Sans Unicode", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 10.5pt;
+}
+.s12 {
+  color: #b64a4f;
+  font-family: "Arial Black", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 10.5pt;
+}
+.s13 {
+  color: black;
+  font-family: Calibri, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 13pt;
+}
+.s14 {
+  color: black;
+  font-family: SimSun;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 11.5pt;
+}
+.s15 {
+  color: black;
+  font-family: "Microsoft JhengHei", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 11.5pt;
+}
+.s16 {
+  color: black;
+  font-family: Verdana, sans-serif;
+  font-style: italic;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 10.5pt;
+}
+.s17 {
+  color: black;
+  font-family: "Arial Black", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 7.5pt;
+}
+.s18 {
+  color: black;
+  font-family: "Lucida Sans Unicode", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 7.5pt;
+}
+.s19 {
+  color: black;
+  font-family: Verdana, sans-serif;
+  font-style: italic;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 7.5pt;
+}
+.s20 {
+  color: black;
+  font-family: Calibri, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 10pt;
+}
+.s21 {
+  color: black;
+  font-family: "Lucida Sans Unicode", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 9.5pt;
+}
+.s22 {
+  color: black;
+  font-family: "Arial Black", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 9.5pt;
+}
+.s23 {
+  color: #b64a4f;
+  font-family: "Arial Black", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: underline;
+  font-size: 11pt;
+}
+.s24 {
+  color: #b64a4f;
+  font-family: "Arial Black", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: underline;
+  font-size: 11pt;
+}
+.s26 {
+  color: black;
+  font-family: "Arial Black", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 10pt;
+}
+.s27 {
+  color: black;
+  font-family: Calibri, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 13pt;
+}
+.s28 {
+  color: black;
+  font-family: Calibri, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 9pt;
+}
+.s29 {
+  color: #b64a4f;
+  font-family: Calibri, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 9pt;
+}
+.s30 {
+  color: #b64a4f;
+  font-family: Calibri, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 9pt;
+}
+.s31 {
+  color: #fff;
+  font-family: Calibri, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 9pt;
+}
+.s32 {
+  color: black;
+  font-family: Calibri, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: underline;
+  font-size: 12pt;
+}
+.s33 {
+  color: black;
+  font-family: "Times New Roman", serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 10pt;
+  vertical-align: -2pt;
+}
